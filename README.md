@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and visualization
 - 🌱 I’m currently learning MLOPs, Pyspark and ML Deployment
 - 💞️ I’m looking to collaborate on DS Content writing and technical reviews
-- 📫 How to reach me linkedin.com/abenavs
+- 📫 How to reach me [linkedin.com/abenavs](https://www.linkedin.com/in/abenavs/)
 
 <!---
 abenav94/abenav94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
